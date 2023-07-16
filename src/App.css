@@ -1,0 +1,26 @@
+/* #root {
+width: 100%;
+  margin: 0 auto;
+  padding: 0px ;
+margin: 0px;
+  text-align: center;
+} */
+
+/* html{padding: 0px;} */
+
+.container{
+  background-color: rgb(197, 142, 25);
+height: 100vh;
+width: 100%;
+
+}
+header{
+  height: 200px;
+  width: 100%;
+  background:aquamarine;
+}
+.wrapper{
+  background-color:rgb(62, 136, 183);
+  height: 100vh;
+  width: 100%;
+}
